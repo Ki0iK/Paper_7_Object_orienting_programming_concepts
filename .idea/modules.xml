@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class_how_they_work/Class_how_they_work.iml" filepath="$PROJECT_DIR$/Class_how_they_work/Class_how_they_work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_1/Homework_1.iml" filepath="$PROJECT_DIR$/Homework_1/Homework_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_2/Homework_2.iml" filepath="$PROJECT_DIR$/Homework_2/Homework_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_3/Homework_3.iml" filepath="$PROJECT_DIR$/Homework_3/Homework_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Paper_7_Object_orienting_programming_concepts.iml" filepath="$PROJECT_DIR$/Paper_7_Object_orienting_programming_concepts.iml" />
+    </modules>
+  </component>
+</project>
